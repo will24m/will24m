@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Will Wu. I'm a student at Queen's University (ON, Canada) studying Software Design. Feel free to take a look through my Github.
+- 👋 Hi, my name is Will Wu. I'm a student at Queen's University (ON, Canada) studying Software Design pursing internships. Feel free to take a look through my Github.
 - 👀 I’m interested in: Quantitative Finance, Machine Learning, AI, App Development, Finance, Technical Consulting
 - 🌱 I’m currently learning: SQL ,Bash
 - 💞️ I’m looking to collaborate on ...
