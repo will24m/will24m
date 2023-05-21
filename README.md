@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: SQL, Bash
 - 📫 How to reach me: williamwu924@gmail.com, +1(647)-886-4250
 
-Check out my LinkedIn: www.linkedin.com/in/williamcwu 
+Check out my LinkedIn: www.linkedin.com/in/will24m
 
 <!---
 will24m/will24m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
