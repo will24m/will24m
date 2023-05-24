@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Will Wu. I'm a student at Queen's University (ON, Canada) studying Software Design seeking a Summer 2023 internship. Feel free to take a look through my Github.
+- 👋 Hi, my name is Will Wu. I'm a student at Queen's University (ON, Canada) studying Software Design seeking a Summer 2024 internship. Feel free to take a look through my Github.
 - 👀 I’m interested in: Quantitative Finance, Machine Learning, AI, App Development, Finance, Technical Consulting
 - 🌱 I’m currently learning: SQL, Bash
 - 📫 How to reach me: williamwu924@gmail.com, +1(647)-886-4250
